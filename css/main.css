@@ -1,0 +1,53 @@
+body, html {
+	height: 100%;
+	background: url('../img/train.jpg') center center;
+}
+
+.container {
+	background: url('../img/train_pm.png') center center;
+}
+
+h1 {
+	font-family: 'Amatic SC', cursive;
+}
+
+#currentTime {
+	font-family: 'Libre Barcode 39 Text', cursive;
+}
+
+#add-train-btn, #removeTrain {
+	background-color: #415c23;
+}
+
+.schedule-container {
+	min-width: 800px;
+}
+
+.input-container {
+	min-width: 800px;
+}
+
+.panel-title {
+	color: black;
+	font-family: 'Amatic SC', cursive;
+	font-size: 30px;
+}
+
+.panel-body {
+	font-family: 'Special Elite', cursive;
+}
+
+th {
+	font-family: 'Special Elite', cursive;
+	font-size: 15px;
+}
+
+table {
+	font-family: 'Special Elite', cursive;
+	border-collapse: separate;
+	border-spacing: 6px;
+}
+
+.jumbotron {
+	min-width: 800px;
+}
